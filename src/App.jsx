@@ -5,7 +5,8 @@ import Hero from "./componenets/Hero";
 import Cocktails from "./componenets/Cocktails";
 import About from "./componenets/About";
 import Art from "./componenets/Art";
-
+import Menu from "./componenets/Menu";
+import Contact from "./componenets/Contact";
 gsap.registerPlugin(ScrollTrigger, SplitText);
 
 function App() {
@@ -16,6 +17,8 @@ function App() {
       <Cocktails />
       <About />
       <Art />
+      <Menu />
+      <Contact />
     </main>
   );
 }
