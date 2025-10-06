@@ -8,7 +8,7 @@ function Cocktails() {
       scrollTrigger: {
         trigger: "cocktails",
         start: "top 35%",
-        end: "bottom 100%",
+        end: "bottom 320%",
         scrub: true,
       },
     });
