@@ -1,6 +1,6 @@
 import gsap from "gsap";
 import { ScrollTrigger, SplitText } from "gsap/all";
-import Navbar from "./componenets/navbar";
+import Navbar from "./componenets/Navbar";
 import Hero from "./componenets/Hero";
 import Cocktails from "./componenets/Cocktails";
 import About from "./componenets/About";
